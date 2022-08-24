@@ -1,5 +1,5 @@
 /*
-    Copyright (C) 2013 Soroush Falahati - soroush@falahati.net
+    Copyright (C) 2022 LIPS Corporation
 
     This library is free software; you can redistribute it and/or
     modify it under the terms of the GNU Lesser General Public
