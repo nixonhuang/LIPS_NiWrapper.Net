@@ -1,7 +1,10 @@
+## Pre-requisite
+According to your camera, follow the instruction and install Openni2 SDK from [LIPS SDK Download](https://www.lips-hci.com/lipssdk)
+
 ## NiWrapper.Net
-[![](https://img.shields.io/badge/license-LGPL--2.1-orange?style=flat-square)](https://github.com/falahati/NiWrapper.Net/blob/master/LICENSE)
-[![](https://img.shields.io/github/commit-activity/y/falahati/NiWrapper.Net.svg?style=flat-square)](https://github.com/falahati/NiWrapper.Net/commits/master)
-[![](https://img.shields.io/github/issues/falahati/NiWrapper.Net.svg?style=flat-square)](https://github.com/falahati/NiWrapper.Net/issues)
+[![](https://img.shields.io/github/license/nixonhuang/LIPS_NiWrapper.Net.svg?style=flat-square)](https://github.com/nixonhuang/LIPS_NiWrapper.Net/blob/master/LICENSE)
+[![](https://img.shields.io/github/commit-activity/y/nixonhuang/LIPS_NiWrapper.Net.svg?style=flat-square)](https://github.com/nixonhuang/LIPS_NiWrapper.Net/commits/master)
+[![](https://img.shields.io/github/issues/nixonhuang/LIPS_NiWrapper.Net.svg?style=flat-square)](https://github.com/nixonhuang/LIPS_NiWrapper.Net/issues)
 
 OpenNI 2.2.0.33 .Net Wrapper (Includes redistribution files)
 
